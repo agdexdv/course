@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: mypkg.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.03 s <<< FAILURE! - in mypkg.AppTest
+testAdd(mypkg.AppTest)  Time elapsed: 0.007 s  <<< FAILURE!
+java.lang.AssertionError: expected:<5> but was:<6>
+	at mypkg.AppTest.testAdd(AppTest.java:16)
+
